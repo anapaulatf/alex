@@ -33,4 +33,4 @@ Néanmoins ce ralentissement sera de courte durée et nous devrions assister à 
 
 ##### Cette newsletter est publiée gratuitement mais il est possible de nous soutenir en nous laissant quelques pourboires (2€...) en cliquant sur ce lien sécurisé. __Votre soutien est important pour nous permettre d’inscrire ce projet dans le temps long.__ 
 
-<a href="https://www.buymeacoffee.com/AlexSebLohmann" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+[![Buy me a coffee](https://github.com/ASLlohmann/asllohmann.github.io/blob/master/images/bmc.jpeg?raw=true)](https://www.buymeacoffee.com/AlexSebLohmann)
